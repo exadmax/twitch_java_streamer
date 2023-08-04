@@ -7,8 +7,9 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import com.exadmax.twitchstreamer.service.StreamingService;
+import com.exadmax.twitchstreamer.module.AppModule;
 
-public class Streaming extends Application {
+public class TwitchStreaming extends Application {
     @Inject
     private StreamingService streamingService;
 

@@ -1,1 +1,4 @@
-/workspaces/twitch_java_streamer/src/main/java/com/exadmax/twitchstreamer/Streaming.java
+/workspaces/twitch_java_streamer/src/main/java/com/exadmax/twitchstreamer/service/StreamingService.java
+/workspaces/twitch_java_streamer/src/main/java/com/exadmax/twitchstreamer/service/impl/TwitchStreamingServiceImpl.java
+/workspaces/twitch_java_streamer/src/main/java/com/exadmax/twitchstreamer/module/AppModule.java
+/workspaces/twitch_java_streamer/src/main/java/com/exadmax/twitchstreamer/TwitchStreaming.java
