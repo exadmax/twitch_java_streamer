@@ -1,4 +1,4 @@
 com/exadmax/twitchstreamer/service/StreamingService.class
 com/exadmax/twitchstreamer/module/AppModule.class
-TwitchStreaming.class
+com/exadmax/twitchstreamer/TwitchStreaming.class
 com/exadmax/twitchstreamer/service/impl/TwitchStreamingServiceImpl.class
